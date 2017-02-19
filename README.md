@@ -1,6 +1,6 @@
 # sprocket
 
-My sprocket project!
+My not-so-awesome project?
 
 
 This Spring Boot microservice is driven using Maven. To run locally
